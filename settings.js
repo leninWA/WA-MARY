@@ -1,9 +1,9 @@
 const settings = {
-  packname: 'Knight Bot',
+  packname: 'MARY-WA BOT',
   author: '‎',
-  botName: "Knight Bot",
-  botOwner: 'Professor', // Your name
-  ownerNumber: '919876543210', //Set your number here without + symbol, just add country code & number without any space
+  botName: "MARY-WA BOT",
+  botOwner: 'vicX', // Your name
+  ownerNumber: '51932518692', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   description: "This is a bot for managing group commands and automating tasks.",
